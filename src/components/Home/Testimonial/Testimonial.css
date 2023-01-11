@@ -1,0 +1,8 @@
+.Imgwrap {
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+  } 
+.Imgwrap::-webkit-scrollbar {
+    display: none;
+  } 
